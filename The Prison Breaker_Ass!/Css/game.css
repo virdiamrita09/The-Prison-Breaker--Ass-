@@ -5,6 +5,7 @@
     Date Modified: 28/05/2015
     
 */
+
 body {
     font-family: 'PT Sans', sans-serif;
     min-height: 740px;
@@ -91,4 +92,4 @@ body {
 
 .slide a:hover, .slide a:active {
     background-color: #cde;
-}
+}}
