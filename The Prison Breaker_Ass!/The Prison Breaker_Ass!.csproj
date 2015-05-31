@@ -59,6 +59,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Images\The_prison_break.jpg" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -68,9 +69,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\Images\brick_wall.png" />
     <Content Include="Assets\Images\prison.jpg" />
-    <Content Include="Assets\Images\The_prison_break.jpg" />
     <Content Include="Css\game.css" />
     <Content Include="Css\reset.css" />
     <Content Include="index.html" />
