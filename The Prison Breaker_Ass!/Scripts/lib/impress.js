@@ -19,7 +19,8 @@
 /*jshint bitwise:true, curly:true, eqeqeq:true, forin:true, latedef:true, newcap:true,
          noarg:true, noempty:true, undef:true, strict:true, browser:true */
 
-//Get to know how impress works....
+// You are one of those who like to know how things work inside?
+// Let me show you the cogs that make impress.js run...
 (function (document, window) {
     'use strict';
 
