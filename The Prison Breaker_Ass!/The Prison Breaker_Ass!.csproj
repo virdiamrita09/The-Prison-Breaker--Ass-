@@ -70,7 +70,7 @@
   <ItemGroup>
     <Content Include="Assets\Images\brick_wall.png" />
     <Content Include="Assets\Images\prison.jpg" />
-    <Content Include="Assets\Images\The_prison_break.jpg.jpg" />
+    <Content Include="Assets\Images\The_prison_break.jpg" />
     <Content Include="Css\game.css" />
     <Content Include="Css\reset.css" />
     <Content Include="index.html" />
