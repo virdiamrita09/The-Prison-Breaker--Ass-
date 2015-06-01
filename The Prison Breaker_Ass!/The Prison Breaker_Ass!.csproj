@@ -73,7 +73,6 @@
     <Content Include="Css\game.css" />
     <Content Include="Css\reset.css" />
     <Content Include="index.html" />
-    <Content Include="Scripts\lib\game.js" />
     <Content Include="Scripts\lib\impress.js" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -82,6 +81,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <TypeScriptCompile Include="Scripts\game.ts" />
     <TypeScriptCompile Include="Scripts\typings\impress\impress.d.ts" />
   </ItemGroup>
   <PropertyGroup>
